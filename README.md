@@ -2,6 +2,7 @@
 
 Simple game for kids to enjoy.
 
+![Screenshot](./screenshot.jpeg)
 
 ## Building
 
